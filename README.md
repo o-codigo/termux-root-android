@@ -1,10 +1,10 @@
- [![DISCORD]](https://discord.gg/Xaqkdeh)
+ [![DISCORD](https://img.shields.io/badge/chat-On%20Discord-738BD7.svg?style=for-the-badge)](https://discord.gg/Xaqkdeh)
  #termux-root-android#
 
 #REPOSITORIO PARA FAZER ROOT PELO TERMUX 
  
 **se inscreva no meu canal no youtube.com**
-'youtube.com/channel/UCpaNw0JgyWEEKtWx8AAMIfg'
+'https://www.youtube.com/ocodigo'
 
 **comandos para instalar no termux**
 

@@ -13,3 +13,4 @@ passo 06 - entrar na pasta: cd termux-root-android
 passo 07 - chmod +x ubuntu.sh
 passo 08 ./ubuntu.sh -y
 paso 09 ./startubuntu.sh
+veja outros videos do canal

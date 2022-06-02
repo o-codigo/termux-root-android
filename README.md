@@ -1,5 +1,5 @@
  [![DISCORD]](https://discord.gg/Xaqkdeh)
- # termux-root-android
+ #termux-root-android#
 
 #REPOSITORIO PARA FAZER ROOT PELO TERMUX 
  

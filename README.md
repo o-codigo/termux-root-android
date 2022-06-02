@@ -15,4 +15,4 @@ passo 07 - 'chmod +x ubuntu.sh'
 passo 08 - './ubuntu.sh -y'
 passo 09 - './startubuntu.sh'
 
-#veja outros videos do canal
+#veja outros videos do canal--
